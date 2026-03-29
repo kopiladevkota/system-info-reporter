@@ -31,15 +31,23 @@ python -m system_info_reporter.main
 ---
 
 ##  Project Structure
+
 system-info-reporter/
 │
+
 ├── system_info_reporter/
+
 │ ├── init.py
+
 │ ├── main.py
+
 │ └── monitor.py
+
 │
 ├── pyproject.toml
+
 ├── README.md
+
 └── LICENSE
 
 ---
