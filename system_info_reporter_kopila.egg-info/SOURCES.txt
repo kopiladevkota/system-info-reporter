@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+system_info_reporter/__init__.py
+system_info_reporter/main.py
+system_info_reporter/monitor.py
+system_info_reporter_kopila.egg-info/PKG-INFO
+system_info_reporter_kopila.egg-info/SOURCES.txt
+system_info_reporter_kopila.egg-info/dependency_links.txt
+system_info_reporter_kopila.egg-info/requires.txt
+system_info_reporter_kopila.egg-info/top_level.txt
